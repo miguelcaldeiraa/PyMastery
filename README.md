@@ -1,2 +1,2 @@
 # Python Introduction - PyMastery 🐍
-- mA comprehensive introduction to Python programming
+- A comprehensive introduction to Python programming
